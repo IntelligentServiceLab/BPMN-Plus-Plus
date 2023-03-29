@@ -1,0 +1,24 @@
+{
+    "name": "customElement",
+    "prefix": "cuel",
+    "uri": "http://cuel",
+    "xml": {
+        "tagAlias": "lowerCase"
+    },
+    "associations": [],
+    "types": [
+        {
+            "name": "customElement",
+            "extends": [
+                "bpmn:Task"
+            ],
+            "properties": [
+                {
+                    "name": "CustomElement",
+                    "type": "String",
+                    "isAttr": true
+                }
+            ]
+        }
+    ]
+}

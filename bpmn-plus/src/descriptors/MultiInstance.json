@@ -1,0 +1,40 @@
+{
+    "name": "MultiInstance",
+    "prefix": "multi",
+    "uri": "http://multi",
+    "xml": {
+        "tagAlias": "lowerCase"
+    },
+    "associations": [],
+    "types": [
+        {
+            "name": "MultiInstance",
+            "extends": [
+                "bpmn:Task",
+                "bpmn:SubProcess"
+            ],
+            "properties": [
+                {
+                    "name": "InstanceNumber",
+                    "type": "String",
+                    "isAttr": true
+                },
+                {
+                    "name": "EndCondition",
+                    "type": "String",
+                    "isAttr": true
+                },
+                {
+                    "name": "ConditionNum",
+                    "type": "String",
+                    "isAttr": true
+                },
+                {
+                    "name": "ConditionTime",
+                    "type": "String",
+                    "isAttr": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+.icon-custom {
+    border-radius: 50%;
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-custom.ImageTask {
+    position: relative;
+    background-image: url('../assets/ImageTask.png');
+}
+
+.icon-custom.IndustrialRobotsTask {
+    position: relative;
+    background-image: url('../assets/IndustrialRobotsTask.png');
+}
+
+.icon-custom.SensorTask {
+    position: relative;
+    background-image: url('../assets/SensorTask.png');
+}
+
+.icon-custom.AudioTask {
+    position: relative;
+    background-image: url('../assets/AudioTask.png');
+}
+
+.icon-custom.CollectTask {
+    position: relative;
+    background-image: url('../assets/CollectTask.png');
+}
+
+.icon-custom.PrivacyTask {
+    position: relative;
+    background-image: url('../assets/PrivacyTask.png');
+}
+
+.icon-custom.IntelligentTask {
+    position: relative;
+    background-image: url('../assets/IntelligentTask.jpg');
+}
+
+.icon-custom.TransportTask {
+    position: relative;
+    background-image: url('../assets/TransportTask.png');
+}
+
+.icon-custom.DeliveryTask {
+    position: relative;
+    background-image: url('../assets/DeliveryTask.svg');
+}
+
+.icon-custom.DataGateWay {
+    position: relative;
+    background-image: url('../assets/DataGateWay.svg');
+}

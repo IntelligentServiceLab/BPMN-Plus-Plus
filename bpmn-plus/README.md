@@ -1,6 +1,6 @@
 
 
-<h1 align="center">BPMN-Plus-Plus</h1>
+<h1 align="center">bpmn-plus</h1>
 
 
 

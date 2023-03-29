@@ -1,0 +1,119 @@
+{
+  "name": "MRField_dict",
+  "prefix": "mrfields",
+  "uri": "http://mrfields",
+  "xml": {
+    "tagAlias": "lowerCase"
+  },
+  "associations": [],
+  "types": [
+    {
+      "name": "MRField_dict",
+      "extends": [
+        "bpmn:Task"
+      ],
+      "properties": [
+        {
+          "name": "mrfield_list",
+          "type": "mrfield_list",
+          "isAttr": false
+        }
+      ]
+    },
+    {
+      "name": "mrfield_list",
+      "properties": [
+        {
+          "name": "mrfield1",
+          "type": "mrfield1",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield2",
+          "type": "mrfield2",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield3",
+          "type": "mrfield3",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield4",
+          "type": "mrfield4",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield5",
+          "type": "mrfield5",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield6",
+          "type": "mrfield6",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield7",
+          "type": "mrfield7",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield8",
+          "type": "mrfield8",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield9",
+          "type": "mrfield9",
+          "isAttr": false
+        },
+        {
+          "name": "mrfield10",
+          "type": "mrfield10",
+          "isAttr": false
+        }
+      ]
+    },
+    {
+      "name": "mrfield1",
+      "properties": []
+    },
+    {
+      "name": "mrfield2",
+      "properties": []
+    },
+    {
+      "name": "mrfield3",
+      "properties": []
+    },
+    {
+      "name": "mrfield4",
+      "properties": []
+    },
+    {
+      "name": "mrfield5",
+      "properties": []
+    },
+    {
+      "name": "mrfield6",
+      "properties": []
+    },
+    {
+      "name": "mrfield7",
+      "properties": []
+    },
+    {
+      "name": "mrfield8",
+      "properties": []
+    },
+    {
+      "name": "mrfield9",
+      "properties": []
+    },
+    {
+      "name": "mrfield10",
+      "properties": []
+    }
+  ]
+}
