@@ -17,7 +17,7 @@
 
 
 
-This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. The project has been deployed on a cloud server. [Click here to access it.](http://124.71.159.213:10086/bpmn-plus) Specific initialization is shown as follow:
+This project is abut BPMN properties extension , and based on BPMN.js and Vue implementation. The project has been deployed on a cloud server. [Click here to access it.](http://124.223.167.70:10086/bpmn-plus-plus) Specific initialization is shown as follow:
 
 ![](https://raw.githubusercontent.com/SongChaotian/bpmn-plus/main/screenshoot/001.png)
 
